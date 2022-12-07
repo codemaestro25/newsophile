@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 35,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Prince Harry memoir to be called Spare, publishers reveal - BBC",
+            "description": "Publishers announce January publication date and say the Duke of Sussex will reveal his \"hard-won wisdom\".",
+            "url": "https://www.bbc.com/news/uk-63413586",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F7ED/production/_127396436_harry_book.jpg",
+            "publishedAt": "2022-10-27T12:37:27Z",
+            "content": "The Duke of Sussex's memoir will be published on 10 January, his publisher Penguin Random House has said.\r\nThe book by Prince Harry - which will include his own account of his decision to give up roy… [+3226 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": "Investor's Business Daily",
+            "title": "Dow Jones Futures: Meta Continues Tech Titan Meltdown; Apple On Deck | Investor's Business Daily - Investor's Business Daily",
+            "description": "Apple closes out a tough week for megacap techs.",
+            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-meta-continues-tech-titans-meltdown-with-apple-on-deck/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2022/09/Stock-apple-green-Shutter.jpg",
+            "publishedAt": "2022-10-27T12:08:00Z",
+            "content": "Dow Jones futures rose early Thursday, while S&amp;P 500 futures and Nasdaq futures fell. Treasury yields moved higher. Meta Platforms (META) plunged on earnings, though its spending splurge lifted s… [+10621 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Sarah Min",
+            "title": "Stocks making the biggest moves premarket: Meta, Ford, Honeywell, Caterpillar & more - CNBC",
+            "description": "A slew of stocks were moving in the premarket on the back of earnings, including Meta Platforms.",
+            "url": "https://www.cnbc.com/2022/10/27/stocks-making-the-biggest-moves-premarket-meta-ford-honeywell-caterpillar-more.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107056641-16517654582022-05-05t153338z_264673887_rc2i0u94zs44_rtrmadp_0_meta-retail.jpeg?v=1666871787&w=1920&h=1080",
+            "publishedAt": "2022-10-27T11:56:27Z",
+            "content": "Check out the companies making headlines before the bell.\r\nMeta The social media stock dropped 22.8% after Meta reported an earnings miss and a weaker-than-expected fourth-quarter forecast. Meta repo… [+2563 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Torey Van Oot",
+            "title": "But Election Day itself was smooth in Minnesota, with no major confrontations reported. - Axios",
+            "description": "Minnesota's top election official says he is not aware of any specific and credible threats targeting the state's midterm elections",
+            "url": "https://www.axios.com/local/twin-cities/2022/10/27/minnesota-election-day-security-threats",
+            "urlToImage": "https://images.axios.com/-rC2_rutASOK30tJWRSdjr8tQ6g=/0x0:1920x1080/1366x768/2022/10/26/1666806437428.jpg",
+            "publishedAt": "2022-10-27T11:28:55Z",
+            "content": "Minnesota's top election official says he is not aware of any specific, credible threats targeting the state's midterm elections, but local and state officials remain \"on alert.\" \r\nThe big picture: T… [+2255 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Iran's Khamenei vows revenge after deadly attack on shrine - Reuters",
+            "description": "Iran's supreme Leader vowed on Thursday to retaliate against those threatening the country's security after the massacre of Shi'ite pilgrims, an assault claimed by Islamic State which threatens to inflame tensions amid widespread anti-government protests.",
+            "url": "https://www.reuters.com/world/middle-east/attack-iran-shrine-will-not-go-unanswered-foreign-minister-2022-10-27/",
+            "urlToImage": "https://www.reuters.com/resizer/SvoUptkd1-gZg48eOsSpzgp6A70=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3UNUWN5BFFJPXGYK4VNW4LHOFY.jpg",
+            "publishedAt": "2022-10-27T11:09:00Z",
+            "content": "DUBAI, Oct 27 (Reuters) - Iran's supreme Leader vowed on Thursday to retaliate against those threatening the country's security after the massacre of Shi'ite pilgrims, an assault claimed by Islamic S… [+3441 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Celine Alkhaldi, Adam Pourahmadi, Tara John",
+            "title": "Clashes in Iran as thousands gather at Mahsa Amini's grave, 40 days after her death - CNN",
+            "description": "Clashes broke out throughout Iran Wednesday as thousands of people came to the burial site of Mahsa Amini in Saqqez, a city in the Kurdistan province, to mark 40 days since her death, semi-official Iranian state news agency ISNA said.",
+            "url": "https://www.cnn.com/2022/10/26/middleeast/iran-clashes-mahsa-amini-grave-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221026104250-01-mahsa-amini-vigil-tehran-102622.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-10-27T10:52:00Z",
+            "content": "Clashes broke out throughout Iran Wednesday as thousands of people came to the burial site of Mahsa Amini in Saqqez, a city in the Kurdistan province, to mark 40 days since her death, semi-official I… [+6094 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "FantasyPros"
+            },
+            "author": null,
+            "title": "The Primer: Week 8 Edition (2022 Fantasy Football) - FantasyPros",
+            "description": "The Primer is presented to you by Bettle, an awesome new fantasy sports platform. At Bettle, we know you read The Primer every week to make sure your fantasy team is as good as it can be. Bettle’s arena lets ...",
+            "url": "https://www.fantasypros.com/2022/10/fantasy-football-primer-week-8-start-sit-advice-2022/",
+            "urlToImage": "//cdn.fantasypros.com/wp-content/uploads/full_379970.jpg",
+            "publishedAt": "2022-10-27T10:44:56Z",
+            "content": "The Primer is presented to you by Bettle, an awesome new fantasy sports platform. At Bettle, we know you read The Primer every week to make sure your fantasy team is as good as it can be. Bettle’s ar… [+35829 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Natasha Turak, Amanda Macias",
+            "title": "Putin says risk of world conflict is 'high'; Moscow official calls for 'de-Satanization' in Ukraine - CNBC",
+            "description": "The \"heaviest of battles\" lies ahead in Kherson as Ukrainian troops advance on occupying Russian forces, a Ukrainian presidential advisor said.",
+            "url": "https://www.cnbc.com/2022/10/26/russia-ukraine-live-updates.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107140995-16667909292022-10-26t121947z_1566337221_rc209x9eyv0i_rtrmadp_0_ukraine-crisis-russia-nuclear.jpeg?v=1666805029&w=1920&h=1080",
+            "publishedAt": "2022-10-27T10:17:00Z",
+            "content": "Russian President Vladimir Putin said his government was \"aware\" of plans by Ukraine to use a \"dirty bomb,\" a claim that's already been made by several Kremlin officials without evidence since the st… [+946 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Democrats turn to Obama for midterm miracle, or at least to stem the bleeding - Reuters",
+            "description": "Less than two weeks before the U.S. midterm elections, with Democrats on verge of losing their razor-thin majority in Congress, the party is asking former President Barack Obama to perform some late-game heroics - or at least help limit their losses.",
+            "url": "https://www.reuters.com/world/us/democrats-turn-obama-midterm-miracle-or-least-stem-bleeding-2022-10-27/",
+            "urlToImage": "https://www.reuters.com/resizer/GdzI8399QEui9qno8Xcf_UKRtz4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7Y33F67ALJL2JGNJ5TF6Y4CTLA.jpg",
+            "publishedAt": "2022-10-27T10:02:00Z",
+            "content": "WASHINGTON, Oct 27 (Reuters) - Less than two weeks before the U.S. midterm elections, with Democrats on verge of losing their razor-thin majority in Congress, the party is asking former President Bar… [+4583 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Nouran Salahieh",
+            "title": "Rifle used in the St. Louis school shooting had been taken from the gunman days before the attack, police say - CNN",
+            "description": "The AR-15-style rifle used in the deadly St. Louis school shooting had been taken from the shooter's possession during an interaction with police about a week before the attack, and it's unclear how he got it back, police say.",
+            "url": "https://www.cnn.com/2022/10/27/us/st-louis-school-shooting-thursday/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221027004514-01-st-louis-school-shooting-thursday.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-10-27T09:41:00Z",
+            "content": "The AR-15-style rifle used in the deadly St. Louis school shooting had been taken from the shooters possession during an interaction with police about a week before the attack, and its unclear how he… [+5309 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Sink-carrying Elon Musk visits Twitter before $44bn deal deadline - Al Jazeera English",
+            "description": "Twitter takeover deal must be sealed by Friday, or the billionaire will face trial.",
+            "url": "https://www.aljazeera.com/news/2022/10/27/sink-carrying-elon-musk-visits-twitter-before-44bn-deal-deadline",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/10/AP22299714287967.jpg?resize=1920%2C1440",
+            "publishedAt": "2022-10-27T08:19:27Z",
+            "content": "Elon Musk, the worlds richest man, has paid a visit to Twitters headquarters before a Friday court-ordered deadline to close his $44bn deal for the United States-based social media giant.\r\nEntering T… [+1347 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SamMobile"
+            },
+            "author": "SamMobile",
+            "title": "Galaxy S22 earned more money for Samsung than Galaxy S21 did last year - SamMobile - Samsung news",
+            "description": "Earlier today, Samsung announced its earnings for Q3 2022 and appointed Lee Jae-yong as its Executive Chairman. During its earnings ...",
+            "url": "https://www.sammobile.com/news/galaxy-s22-sold-more-galaxy-s21/",
+            "urlToImage": "https://www.sammobile.com/wp-content/uploads/2022/02/Galaxy-S22-Ultra-37-720x405.jpg",
+            "publishedAt": "2022-10-27T07:56:00Z",
+            "content": "Earlier today, Samsung announced its earnings for Q3 2022 and appointed Lee Jae-yong as its Executive Chairman. During its earnings announcement, the company revealed that its smartphone division did… [+1244 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Zoe Sottile",
+            "title": "The Powerball jackpot climbed to $800 million after no ticket matched all winning numbers in Wednesday's drawing - CNN",
+            "description": "The Powerball jackpot soared to a whopping $800 million after Wednesday night's drawing yielded no grand prize winning ticket matching all six numbers, the lottery agency said.",
+            "url": "https://www.cnn.com/2022/10/26/us/powerball-jackpot-700-million-trnd/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220428084111-powerball-lottery-tickets-stock.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-10-27T07:03:00Z",
+            "content": "The Powerball jackpot soared to a whopping $800 million after Wednesday nights drawing yielded no grand prize winning ticket matching all six numbers, the lottery agency said. \r\nThe jackpot in Wednes… [+677 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "INSIDER"
+            },
+            "author": "Palmer Haasch",
+            "title": "Kourtney Kardashian and Travis Barker's officiant called her Khloé - Insider",
+            "description": "Kourtney Kardashian said that she \"blacked out\" the night that an Elvis impersonator married her and Travis Barker in Las Vegas after the Grammys.",
+            "url": "https://www.insider.com/kourtney-kardashian-travis-barker-vegas-wedding-elvis-khloe-name-2022-10",
+            "urlToImage": "https://i.insider.com/635a07d0ea35650019e06516?width=1200&format=jpeg",
+            "publishedAt": "2022-10-27T04:25:43Z",
+            "content": "Kourtney Kardashian Barker said that the Elvis impersonator who married her and Travis Barker in Las Vegas after the Grammys kept calling her by her sister's name, Khloé.\r\nOn season two, episode six … [+1934 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "YeEun Kim",
+            "title": "Rihanna and A$AP Rocky Are Twinning at the Premiere of 'Black Panther: Wakanda Forever' - Yahoo Entertainment",
+            "description": "Rihanna and A$AP Rocky are serving fans with another iconic couple moment -- the two arrived on the...",
+            "url": "https://www.yahoo.com/entertainment/rihanna-ap-rocky-twinning-premiere-034107189.html",
+            "urlToImage": "https://media.zenfs.com/en/hypebae_340/f30fde32dab7f42dc738576c11d435e3",
+            "publishedAt": "2022-10-27T03:47:11Z",
+            "content": "Rihanna and A$AP Rocky are serving fans with another iconic couple moment -- the two arrived on the red carpet of the Black Panther: Wakanda Forever premiere in matching fits.\r\nJust a few days ahead … [+1042 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "POLITICO.eu"
+            },
+            "author": "Emilio Casalicchio",
+            "title": "Britain wants an election. It’s not getting one - POLITICO Europe",
+            "description": "The UK political system — and the Conservatives’ rock-bottom poll ratings — mean public clamor for a general election will be ignored.",
+            "url": "https://www.politico.eu/article/rishi-sunak-liz-truss-boris-johnson-britain-wants-an-election-but-frightened-tories-wont-give-it-one/",
+            "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2022/10/26/GettyImages-1244214774-scaled.jpg",
+            "publishedAt": "2022-10-27T02:04:32Z",
+            "content": "LONDON Now on their third prime minister since the last general election, the despairing British public want a vote on who runs the country. They appear to be out of luck.\r\nNew U.K. premier Rishi Sun… [+6991 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MLB.com"
+            },
+            "author": "Michael Clair",
+            "title": "Phillies and Astros playing in rematch of remarkable 1980 NLCS - MLB.com",
+            "description": "Not many predicted the Phillies to win it all in 1980. Many baseball writers predicted Philadelphia to finish fourth in the NL East after they had lost in the NLCS three straight years from 1976-78 before finishing fourth with 84 wins in '79. They appeared to…",
+            "url": "https://www.mlb.com/news/phillies-astros-1980-nlcs-rematch",
+            "urlToImage": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/stgmmempbbxnw0dsjsiu.jpg",
+            "publishedAt": "2022-10-27T01:22:06Z",
+            "content": "Not many predicted the Phillies to win it all in 1980. Many baseball writers predicted Philadelphia to finish fourth in the NL East after they had lost in the NLCS three straight years from 1976-78 b… [+12362 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Stella Chan, Gregory Krieg",
+            "title": "Unnamed woman alleges Herschel Walker pressured her into an abortion in 1993 - CNN",
+            "description": "A woman who claims she was in a years-long romantic relationship with Herschel Walker says the Republican Senate nominee for Georgia pressured her into having an abortion in 1993, she announced at a press conference on Wednesday.",
+            "url": "https://www.cnn.com/2022/10/26/politics/herschel-walker-abortion-allegation-jane-doe-1993/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221026133856-01-herschel-walker-1011.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-10-27T00:32:00Z",
+            "content": "A woman who claims she was in a years-long romantic relationship with Herschel Walker says the Republican Senate nominee for Georgia pressured her into having an abortion in 1993, she announced at a … [+5711 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ScienceAlert"
+            },
+            "author": "AFP",
+            "title": "NASA Detects More Than 50 Methane 'Super-Emitter' Zones Around The World - ScienceAlert",
+            "description": "NASA scientists, using a tool designed to study how dust affects climate, have identified more than 50 spots around the world emitting major levels of methane, a development that could help combat the potent greenhouse gas.",
+            "url": "https://www.sciencealert.com/nasa-detects-more-than-50-methane-super-emitter-zones-around-the-world",
+            "urlToImage": "https://www.sciencealert.com/images/2022/10/MethanePlume_NASA.jpg",
+            "publishedAt": "2022-10-27T00:30:53Z",
+            "content": "NASA scientists, using a tool designed to study how dust affects climate, have identified more than 50 spots around the world emitting major levels of methane, a development that could help combat th… [+2824 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Pat Milton, Robert Legare",
+            "title": "New Jersey Sen. Robert Menendez under federal criminal investigation - CBS News",
+            "description": "Sen. Menendez, a Democrat, is \"aware\" of the investigation but doesn't know the scope of it, a longtime adviser said.",
+            "url": "https://www.cbsnews.com/news/new-jersey-senator-robert-menendez-federal-criminal-investigation/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2022/10/26/3f2b368a-9081-4ee7-964c-6547143bdddd/thumbnail/1200x630/bf13e112b811cf1254dc64fc5f7b902d/gettyimages-1424028243.jpg",
+            "publishedAt": "2022-10-27T00:17:00Z",
+            "content": "FILE: U.S. Sen. Bob Menendez (D-NJ) at a Senate hearing on Capitol Hill, Sept. 15, 2022.\r\nKevin Dietsch / Getty Images\r\nWashington — New Jersey Sen. Bob Menendez is under federal criminal investigati… [+1402 chars]"
+        }
+    ]
+}                                                                                                                                                                                                                                                                                                                                                                                                                                          
